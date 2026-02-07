@@ -3,8 +3,8 @@
     "Cookie___csrf": "d16308e388dc337cc379b1f8541b3ae3",
     "wait_time_min": 15,
     "wait_time_max": 30,
-    "score": 3,
-    "full_extra_tasks": false,
+    "score": 4,
+    "full_extra_tasks": True,
     "notify_email": "您的邮箱地址",
     "email_password": "您的邮箱密码或应用专用密码",
     "smtp_server": "smtp.gmail.com",
@@ -16,3 +16,4 @@
     "gh_repo": "您的GitHub仓库，格式为username/repo"
 
 }
+
