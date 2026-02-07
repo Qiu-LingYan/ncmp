@@ -4,7 +4,7 @@
     "wait_time_min": 15,
     "wait_time_max": 30,
     "score": 4,
-    "full_extra_tasks": True,
+    "full_extra_tasks": true,
     "notify_email": "您的邮箱地址",
     "email_password": "您的邮箱密码或应用专用密码",
     "smtp_server": "smtp.gmail.com",
@@ -16,4 +16,5 @@
     "gh_repo": "您的GitHub仓库，格式为username/repo"
 
 }
+
 
